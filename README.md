@@ -1,11 +1,11 @@
-# BlazorDbzPersonagem — .NET Blazor Application
+# BlazorDbzPersonagem - .NET Blazor Application
 
 Aplicação Blazor desenvolvida para consumir a API pública de Dragon Ball (`dragonball-api.com`) e exibir dados de um personagem através do seu ID.
 
 ## 📌 Informações do Aluno
 
-- **Nome:** Vinícius Miranda
-- **RA:** 124114120
+- **Nome:** Rayssa Leal
+- **RA:** 12419301
 - **Curso:** Engenharia de Software (UniBH)
 - **Disciplina:** Usabilidade, Desenvolvimento Web, Mobile e Jogos (UDWMJ)
 - **Professor:** Daniel Henrique Matos de Paiva
